@@ -6,3 +6,4 @@ flake8-pyi==19.3.0
 isort==4.3.21
 gitpython==3.1.35
 -e .
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
